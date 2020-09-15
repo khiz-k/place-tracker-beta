@@ -68,19 +68,7 @@ page.
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
 
-## Caveat
+## Note
 
 The google_maps_flutter plugin is in developer preview until [dynamic thread
 merging](https://github.com/flutter/flutter/projects/155) is finished.
-
-## Questions/issues
-
-If you have a general question about any of the techniques you see in
-the sample, the best places to go are:
-
-* [The FlutterDev Google Group](https://groups.google.com/forum/#!forum/flutter-dev)
-* [The Flutter Gitter channel](https://gitter.im/flutter/flutter)
-* [StackOverflow](https://stackoverflow.com/questions/tagged/flutter)
-
-If you run into an issue with the sample itself, please file an issue
-in the [main Flutter repo](https://github.com/flutter/flutter/issues).
