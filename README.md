@@ -6,12 +6,6 @@ plugin. Keep track of your favorite places, places you've visited, and places
 you want to go. View details about these places, show them on a map, and get
 directions to them.
 
-## Goals
-
-* Learn how to create an interface composed of GoogleMap and other widgets.
-* Learn how to show, control, and modify a GoogleMap widget.
-* Learn how to place a marker on a map.
-
 ## IMPORTANT
 
 ### `place_map.dart`
