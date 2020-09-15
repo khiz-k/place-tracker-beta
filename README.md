@@ -12,7 +12,7 @@ directions to them.
 * Learn how to show, control, and modify a GoogleMap widget.
 * Learn how to place a marker on a map.
 
-## The important bits
+## IMPORTANT
 
 ### `place_map.dart`
 
