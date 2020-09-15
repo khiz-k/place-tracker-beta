@@ -59,7 +59,7 @@ For additional help setting up the plugin, see the plugin's
 [README](https://pub.dev/packages/google_maps_flutter)
 page.
 
-For help getting started with Flutter, view our online
+For help getting started with Flutter, view online
 [documentation](https://flutter.io/).
 
 ## Note
